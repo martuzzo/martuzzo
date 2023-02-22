@@ -3,4 +3,4 @@
 - 🔭 Hobbies:  many.
 - 🌱 I’m currently learning many things...
 - 👯 I’m looking to collaborate on develop flutter apps.
-- 😄 Pronouns: Una cosa es una cosa y otra cosa es otra cosa.
+- Una cosa es una cosa y otra cosa es otra cosa.
